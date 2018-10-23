@@ -23,7 +23,7 @@ pip install tensorflow
 
 ### Contributing:
 If you have suggestions or any type of contribution idea, file an issue, make a PR
-and don't forget to star the repository
+and **don't forget to star the repository**
 
 ### More projects:
 Feel free to check out my other repos with more work in Machine Learning:
