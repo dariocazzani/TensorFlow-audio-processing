@@ -1,5 +1,3 @@
-## An Implementation of [World Models](https://worldmodels.github.io/) in TensorFlow
-
 [![dep2](https://img.shields.io/badge/TensorFlow%2B-orange.svg)](https://www.tensorflow.org/)
 ![dep1](https://img.shields.io/badge/Status-Work--in--Progress-brightgreen.svg)
 
